@@ -9,7 +9,7 @@ Fasco Fashion Store es una tienda en línea desarrollada con React, utilizando t
 
 1. Clona el repositorio:
 
-   git clone [https://github.com/veronica1904/FASCO.git]
+   git clone [https://github.com/veronica1904/fasco_store.git]
 
 2. Instala dependencias:
 
